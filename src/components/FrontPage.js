@@ -8,7 +8,7 @@ const FrontPage = () => {
       <div className="main__personal-info">
         <div className="main__introduction">
           <p>
-            <strong>Saskia</strong>, 23, Estonia
+            <strong>Saskia</strong>, 24, Estonia
           </p>
           <p>Front-end developer and UX</p>
         </div>
